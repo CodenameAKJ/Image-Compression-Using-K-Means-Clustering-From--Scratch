@@ -2,7 +2,7 @@
 
 Using unsupervised learning techniques to compress the image file size with less compromise in overall quality.
 
-## Project Overview
+## Overview
 
 This project demonstrates the application of K-Means clustering, a prominent unsupervised machine learning algorithm, to the task of image compression. The primary goal is to significantly reduce the file size of images by quantizing colors, while maintaining a visually acceptable level of quality. This showcases a practical application of clustering for dimensionality reduction and data representation in image processing.
 
