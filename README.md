@@ -36,12 +36,9 @@ The process involves the following key steps, implemented from scratch:
 
 This project successfully demonstrates that K-Means clustering can be a highly effective method for image compression. By reducing the number of distinct colors in an image to a user-defined `K`, significant file size reduction can be achieved with minimal perceptual loss of quality, especially when `K` is chosen appropriately.
 
-The visual comparison typically shows that even with a drastically reduced color palette (e.g., from millions of colors down to 16, 32, or 64), the essential features and overall appearance of the image are well-preserved.
 
-**Example Comparison:**
 
-![Original vs Compressed Image](assets/image_comparison.png)
-_Example: Original image (left) versus image compressed with K=16 colors (right)._
+
 
 
 ## Future Work
