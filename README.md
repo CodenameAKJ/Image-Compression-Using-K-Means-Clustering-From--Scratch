@@ -36,15 +36,7 @@ The process involves the following key steps, implemented from scratch:
 
 This project successfully demonstrates that K-Means clustering can be a highly effective method for image compression. By reducing the number of distinct colors in an image to a user-defined `K`, significant file size reduction can be achieved with minimal perceptual loss of quality, especially when `K` is chosen appropriately.
 
+![Original](images/Original_image.jpg)
+![Compressed](images/Reconstructed_image.jpg)
 
 
-
-
-
-## Future Work
-
-* Implement different initialization strategies for K-Means (e.g., K-Means++).
-* Explore alternative clustering algorithms for comparison (e.g., MiniBatchKMeans for larger images).
-* Add quantitative metrics for image quality assessment (e.g., PSNR - Peak Signal-to-Noise Ratio).
-* Develop a user interface for easy image selection and parameter tuning.
-* Extend the concept to video compression.
