@@ -14,12 +14,13 @@ Deployed on AWS EC2 (Linux) using Streamlit.
 
 ## 🖼️ Web Interface
 
-![Streamlit UI](Sample images/UI.png)
+![Streamlit UI](sample_images/UI.png)
 
-![](Sample images/UI_compress.png)
+![UI Compression](sample_images/UI_compress.png)
 
 ## 🎨 Image Compression Example
 
-![Original vs Compressed](Sample images/org.jpg)
+![Original Image](sample_images/org.jpg)
 
-![](Sample images/compressed_image.jpg.jpg)
+![Compressed Image](sample_images/compressed_image.jpg)
+
