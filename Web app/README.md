@@ -11,3 +11,13 @@ streamlit run Image_compressor.py
 ## ☁️ Deployment
 
 Deployed on AWS EC2 (Linux) using Streamlit.
+
+## 🖼️ Web Interface
+
+![Streamlit UI](sample_images/UI.png)
+(sample_images/UI_compress.png)
+
+## 🎨 Image Compression Example
+
+![Original vs Compressed](sample_images/org.jpg)
+sample_images/compressed_image.jpg.jpg)
