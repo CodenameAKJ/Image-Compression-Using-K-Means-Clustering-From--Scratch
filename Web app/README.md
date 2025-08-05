@@ -16,11 +16,4 @@ Deployed on AWS EC2 (Linux) using Streamlit.
 
 ![Streamlit UI](Web%20app/sample_images/UI.png)
 
-![UI Compression](Web%20app/sample_images/UI_compress.png)
-
-## 🎨 Image Compression Example
-
-![Original Image](Web%20app/sample_images/org.jpg)
-
-![Compressed Image](Web%20app/sample_images/compressed_image.jpg)
 
